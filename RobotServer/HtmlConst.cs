@@ -2,7 +2,7 @@
 {
     public static class HtmlConst
     {
-        public const string HtmlDataContainer = 
+        public const string HTMLDATACONTAINER = 
             @"<HTML><BODY>" +
             "//Thierry / Mario</br>" +
                 "private static void ExecuteDrive()</br>" +
@@ -17,7 +17,7 @@
                 "}" +
             "</BODY></HTML>";
 
-        public const string HtmlEmptyContainer =
+        public const string HTMLEMPTYCONTAINER=
             @"<HTML><BODY>" +
             "$$Data" +
             "</BODY></HTML>";

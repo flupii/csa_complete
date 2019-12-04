@@ -22,10 +22,8 @@ namespace RobotServer
             HttpLog?.Invoke("HTTP Server Startet" + Environment.NewLine, null);
             while (true)
             {
-
                 HttpListenerContext context = _listener.GetContext();
                 if (context.Request.Url.Segments.Count() > 1 && context.Request.Url.Segments[1] == "favicon.ico") return; //workaround for second call 
-
                 HttpLog?.Invoke("HTTP Server Connected" + Environment.NewLine, null);
                 HttpHandler handler = new HttpHandler(context);
                 new Thread(handler.HandleRequest).Start();

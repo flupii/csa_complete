@@ -8,50 +8,57 @@ namespace RobotServer
 {
     public class TcpHandler
     {
-        private TcpClient client;
+        private TcpClient _client;
 
-        public TcpHandler(TcpClient _client)
+        public TcpHandler(TcpClient client)
         {
-            client = _client;
+            _client = client;
         }
 
         public void HandleRequest()
         {
-            using (StreamReader sr = new StreamReader(client.GetStream()))
+            using (StreamReader sr = new StreamReader(_client.GetStream()))
             {
-                string command = sr.ReadToEnd();
-                var a = command.Split(new[] { '\n' });
-                var b = a.Where(o => o != string.Empty);
-                foreach (var item in b)
+                try
                 {
-                    var splitter = item.Split(new[] { '+' });
-                    Command cmd = new Command();
-                    cmd.Action = (Commands)Enum.Parse(typeof(Commands), splitter[0], true);
-                    switch (cmd.Action)
+                    string command = sr.ReadToEnd();
+                    var a = command.Split(new[] { '\n' });
+                    var b = a.Where(o => o != string.Empty);
+                    foreach (var item in b)
                     {
-                        case Commands.TrackLine:
-                            cmd.ValueA = float.Parse(splitter[1]);
-                            break;
-                        case Commands.TrackTurnLeft:    
-                        case Commands.TrackTurnRight:
-                            cmd.ValueA = float.Parse(splitter[1]);
-                            break;
-                        case Commands.TrackArcLeft:
-                            cmd.ValueA = float.Parse(splitter[1]);
-                            cmd.ValueL = int.Parse(splitter[2]);
-                            break;
-                        case Commands.TrackArcRight:
-                            cmd.ValueA = float.Parse(splitter[1]);
-                            cmd.ValueL = int.Parse(splitter[2]);
-                            break;
-                        case Commands.Start:
-                            VirtualRobo robo = new VirtualRobo();
-                            new Thread(robo.Start).Start();
-                            break;
-                        default:
-                            break;
+                        var splitter = item.Split(new[] { '+' });
+                        Command cmd = new Command();
+                        cmd.Action = (Commands)Enum.Parse(typeof(Commands), splitter[0], true);
+                        switch (cmd.Action)
+                        {
+                            case Commands.TrackLine:
+                                cmd.ValueA = float.Parse(splitter[1]);
+                                break;
+                            case Commands.TrackTurnLeft:
+                            case Commands.TrackTurnRight:
+                                cmd.ValueA = float.Parse(splitter[1]);
+                                break;
+                            case Commands.TrackArcLeft:
+                                cmd.ValueA = float.Parse(splitter[1]);
+                                cmd.ValueL = int.Parse(splitter[2]);
+                                break;
+                            case Commands.TrackArcRight:
+                                cmd.ValueA = float.Parse(splitter[1]);
+                                cmd.ValueL = int.Parse(splitter[2]);
+                                break;
+                            case Commands.Start:
+                                VirtualRobo robo = new VirtualRobo();
+                                new Thread(robo.Start).Start();
+                                break;
+                            default:
+                                break;
+                        }
+                        InternalStorage.Commands.Add(cmd); //Sperren ?
                     }
-                    InternalStorage.Commands.Add(cmd); //Sperren ?
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
                 }
             }
         }

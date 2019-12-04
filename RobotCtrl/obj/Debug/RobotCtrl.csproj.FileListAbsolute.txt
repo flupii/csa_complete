@@ -7,3 +7,4 @@ C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotCtrl\bin\Debug\RobotCtrl.
 C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotCtrl\bin\Debug\RobotCtrl.pdb
 C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotCtrl\obj\Debug\RobotCtrl.dll
 C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotCtrl\obj\Debug\RobotCtrl.pdb
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotCtrl\obj\Debug\RobotCtrl.csprojResolveAssemblyReference.cache

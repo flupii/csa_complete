@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace RobotServer
 {
@@ -12,7 +8,7 @@ namespace RobotServer
         public static void Main(string[] args)
         {
             TcpServer tcpServer = new TcpServer(7300);
-            tcpServer.TCPLog += Server_TCPLog;
+            tcpServer.TcpLog += Server_TCPLog;
             new Thread(tcpServer.Start).Start();
 
             HttpServer httpServer = new HttpServer(8080);
