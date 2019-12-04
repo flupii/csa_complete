@@ -1,0 +1,44 @@
+D:\lehre\CSA\VS2015\Robot\RobotView\bin\Debug\RobotView.dll
+D:\lehre\CSA\VS2015\Robot\RobotView\bin\Debug\RobotView.pdb
+D:\lehre\CSA\VS2015\Robot\RobotView\bin\Debug\RobotCtrl.dll
+D:\lehre\CSA\VS2015\Robot\RobotView\bin\Debug\RobotCtrl.pdb
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.csprojResolveAssemblyReference.cache
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.CommonRunParameters.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.ConsoleView.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.DriveCtrlView.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.DriveView.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.LedView.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.MotorCtrlView.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.NumberKeyboard.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.RadarView.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.Resource.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.RunArc.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.RunLine.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.RunTurn.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.SwitchView.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.SwitchViewNew.resources
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.csproj.GenerateResource.Cache
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.dll
+D:\lehre\CSA\VS2015\Robot\RobotView\obj\Debug\RobotView.pdb
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\bin\Debug\RobotView.dll
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\bin\Debug\RobotView.pdb
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\bin\Debug\RobotCtrl.dll
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\bin\Debug\RobotCtrl.pdb
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.csprojResolveAssemblyReference.cache
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.CommonRunParameters.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.ConsoleView.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.DriveCtrlView.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.DriveView.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.LedView.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.MotorCtrlView.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.NumberKeyboard.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.RadarView.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.Resource.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.RunArc.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.RunLine.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.RunTurn.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.SwitchView.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.SwitchViewNew.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.csproj.GenerateResource.Cache
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.dll
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotView\obj\Debug\RobotView.pdb
