@@ -1,0 +1,12 @@
+D:\lehre\CSA\VS2015\Robot\RobotIO\bin\Debug\Lib\GPIOLib.dll
+D:\lehre\CSA\VS2015\Robot\RobotIO\bin\Debug\RobotIO.dll
+D:\lehre\CSA\VS2015\Robot\RobotIO\bin\Debug\RobotIO.pdb
+D:\lehre\CSA\VS2015\Robot\RobotIO\obj\Debug\RobotIO.dll
+D:\lehre\CSA\VS2015\Robot\RobotIO\obj\Debug\RobotIO.pdb
+D:\lehre\CSA\VS2015\Robot\RobotIO\obj\Debug\RobotIO.csprojResolveAssemblyReference.cache
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotIO\bin\Debug\Lib\GPIOLib.dll
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotIO\bin\Debug\RobotIO.dll
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotIO\bin\Debug\RobotIO.pdb
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotIO\obj\Debug\RobotIO.csprojResolveAssemblyReference.cache
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotIO\obj\Debug\RobotIO.dll
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotIO\obj\Debug\RobotIO.pdb

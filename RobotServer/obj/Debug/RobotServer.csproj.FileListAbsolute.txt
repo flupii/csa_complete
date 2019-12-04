@@ -1,0 +1,5 @@
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotServer\bin\Debug\RobotServer.exe
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotServer\bin\Debug\RobotServer.pdb
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotServer\obj\Debug\RobotServer.csprojResolveAssemblyReference.cache
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotServer\obj\Debug\RobotServer.exe
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotServer\obj\Debug\RobotServer.pdb

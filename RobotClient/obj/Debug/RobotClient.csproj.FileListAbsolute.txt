@@ -1,0 +1,9 @@
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotClient\bin\Debug\RobotClient.exe.config
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotClient\obj\Debug\RobotClient.csprojResolveAssemblyReference.cache
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotClient\obj\Debug\RobotClient.Properties.Resources.resources
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotClient\obj\Debug\RobotClient.csproj.GenerateResource.Cache
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotClient\bin\Debug\RobotClient.exe
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotClient\bin\Debug\RobotClient.pdb
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotClient\obj\Debug\RobotClient.exe
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotClient\obj\Debug\RobotClient.pdb
+C:\Users\Thierry\Documents\Schule\5 Sem\CSA\Robot\RobotClient\obj\Debug\RobotClient.frmMain.resources
